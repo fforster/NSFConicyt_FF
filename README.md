@@ -4,7 +4,7 @@ Some files produced for the NSF Conicyt collaboration between the University of 
 - Covariance.pdf:
 Notes on covariance matrix for image convolution and object detection
 
-- HiTS.odp:
+- HiTS.pdf:
 Slides from HiTS presentation given at UW
 
 - docomp.py:
